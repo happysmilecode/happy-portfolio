@@ -217,8 +217,8 @@ section .row .columns .skill img:hover {
     position: relative;
     display: flex;
     justify-content: center;
-    align-items: flex-end;
-    -webkit-align-items: flex-end;
+    align-items: flex-start !important;
+    -webkit-align-items: flex-start !important;
 }
 
 .sobre-mi-info p{
@@ -235,8 +235,8 @@ section .row .columns .skill img:hover {
 
 
 .sobre-mi-img {
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 70%;
     object-fit: cover;
     object-position: right;
     border-radius: 2rem;
@@ -258,14 +258,14 @@ section .row .columns .skill img:hover {
 .skill-container{
     margin: auto;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 5rem;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 3rem;
 }
 
 .skills-img {
     display: block;
     margin: 0 auto;
-    height: 15rem;
+    height: 5rem;
 }
 
 .skill-name{
