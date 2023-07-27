@@ -78,7 +78,7 @@ const Contact = () => (
           <span></span>
           <span className="fab fa-discord"></span>
         </div>
-        <div className="text">GitHub</div>
+        <div className="text">Discord</div>
       </a>
       <a
         href="https://github.com/happysmilecode/"
