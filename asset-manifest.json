@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/happy-portfolio/static/css/main.6eac80b0.css",
-    "main.js": "/happy-portfolio/static/js/main.9ea4d7f8.js",
+    "main.js": "/happy-portfolio/static/js/main.9651f3bc.js",
     "static/js/787.50fcb3a9.chunk.js": "/happy-portfolio/static/js/787.50fcb3a9.chunk.js",
     "static/media/Thumbs.db": "/happy-portfolio/static/media/Thumbs.735170b30af6b4c4247f.db",
     "static/media/proyecto-app-17-com.png": "/happy-portfolio/static/media/proyecto-app-17-com.1cacb50e9e33a1ece5a4.png",
@@ -58,11 +58,11 @@
     "static/media/proyecto-app-2.jpg": "/happy-portfolio/static/media/proyecto-app-2.5d8ddf1cc2638b419fd5.jpg",
     "index.html": "/happy-portfolio/index.html",
     "main.6eac80b0.css.map": "/happy-portfolio/static/css/main.6eac80b0.css.map",
-    "main.9ea4d7f8.js.map": "/happy-portfolio/static/js/main.9ea4d7f8.js.map",
+    "main.9651f3bc.js.map": "/happy-portfolio/static/js/main.9651f3bc.js.map",
     "787.50fcb3a9.chunk.js.map": "/happy-portfolio/static/js/787.50fcb3a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6eac80b0.css",
-    "static/js/main.9ea4d7f8.js"
+    "static/js/main.9651f3bc.js"
   ]
 }
