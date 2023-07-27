@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/happy-portfolio/static/css/main.6eac80b0.css",
-    "main.js": "/happy-portfolio/static/js/main.9651f3bc.js",
+    "main.js": "/happy-portfolio/static/js/main.81456e5f.js",
     "static/js/787.50fcb3a9.chunk.js": "/happy-portfolio/static/js/787.50fcb3a9.chunk.js",
     "static/media/Thumbs.db": "/happy-portfolio/static/media/Thumbs.735170b30af6b4c4247f.db",
     "static/media/proyecto-app-17-com.png": "/happy-portfolio/static/media/proyecto-app-17-com.1cacb50e9e33a1ece5a4.png",
     "static/media/proyecto-app-17.png": "/happy-portfolio/static/media/proyecto-app-17.1fdc99f421c0d630d405.png",
+    "static/media/cv.pdf": "/happy-portfolio/static/media/cv.110d9cebc9b5bf6238de.pdf",
     "static/media/inicio.png": "/happy-portfolio/static/media/inicio.9e191e0f2820064e6d28.png",
-    "static/media/cv.pdf": "/happy-portfolio/static/media/cv.c31881f516debb217e5c.pdf",
     "static/media/proyecto-17-com.png": "/happy-portfolio/static/media/proyecto-17-com.2bc063c32eca5ac09842.png",
     "static/media/proyecto-app-18-com.png": "/happy-portfolio/static/media/proyecto-app-18-com.c68f0badd89d43b76378.png",
     "static/media/portfolio.png": "/happy-portfolio/static/media/portfolio.db37f4e450ab03a28636.png",
@@ -58,11 +58,11 @@
     "static/media/proyecto-app-2.jpg": "/happy-portfolio/static/media/proyecto-app-2.5d8ddf1cc2638b419fd5.jpg",
     "index.html": "/happy-portfolio/index.html",
     "main.6eac80b0.css.map": "/happy-portfolio/static/css/main.6eac80b0.css.map",
-    "main.9651f3bc.js.map": "/happy-portfolio/static/js/main.9651f3bc.js.map",
+    "main.81456e5f.js.map": "/happy-portfolio/static/js/main.81456e5f.js.map",
     "787.50fcb3a9.chunk.js.map": "/happy-portfolio/static/js/787.50fcb3a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6eac80b0.css",
-    "static/js/main.9651f3bc.js"
+    "static/js/main.81456e5f.js"
   ]
 }
